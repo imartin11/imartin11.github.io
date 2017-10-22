@@ -1,0 +1,32 @@
+nav{
+	background-color: lightpink;
+}
+.navbar-brand.homepage{
+	color: white
+	
+}
+.nav-item .nav-link.nav-menu-item{
+	color: white
+
+}
+body{
+	background-image:url("../images/grey.jpg");
+}
+
+.title-font{
+	text-align: center;
+	font-size: 1000%
+	
+}
+
+.containter{
+	font-family: cursive;
+    position: relative;
+    top: 40px;
+}
+
+.hat{
+	 width: 200px;
+    height: auto;
+    
+}

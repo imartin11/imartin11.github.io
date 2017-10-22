@@ -1,0 +1,17 @@
+.profile-pic{
+	max-width: 100%;
+	height: 200px;
+	border: 5px black dotted;
+}
+
+.icon{
+	color: black;
+}
+
+.back{
+	background-color: lightpink
+}
+
+.underline{
+	text-decoration: underline;
+}
